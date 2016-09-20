@@ -12,10 +12,14 @@ Make sure **all** (bold text surrounded by `** **`)
 
 Note: 
 
+---
+
 ## Slide 2
 
 1. Numbered list item 1
 2. Nubered list item 2
+
+---
 
 ## Slide 3
 
@@ -26,6 +30,8 @@ Text content
 ### Subheading 2 
 
 `git clone `
+
+---
 
 ## Slide 4
 
