@@ -1,6 +1,6 @@
 ## Slide 1
 
-![](img/test1.png)
+![](https://media0.giphy.com/media/rncdcDDHCQaWI/200w.gif)
 
 * Bullet list
 * item 2
